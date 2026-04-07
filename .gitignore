@@ -1,0 +1,25 @@
+# JMeter - arquivos de resultado brutos
+*.jtl
+
+# Logs
+*.log
+
+# Relatórios temporários (se gerar mais de um)
+results/tmp/
+results/raw/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java / JVM
+hs_err_pid*
+
+# Arquivos temporários
+*.tmp
+*.bak
